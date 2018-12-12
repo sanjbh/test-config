@@ -1,8 +1,4 @@
 foo:
     bar: Hello Sanjay from development environment!
     baz: Hello baz!
-spring:
-  cloud:
-    config:
-      uri:
-      - http://localhost:8888
+
